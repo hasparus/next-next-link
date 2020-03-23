@@ -16,12 +16,13 @@
     "dist"
   ],
   "scripts": {
-    "prebuild": "rm -rf dist & true",
     "build": "microbundle -f modern,cjs",
-    "prettier-check": "yarn prettier --check 'index.tsx'",
-    "commit": "gitmoji -c",
     "c": "gitmoji -c",
-    "semantic-release": "semantic-release"
+    "commit": "gitmoji -c",
+    "prebuild": "rm -rf dist & true",
+    "prettier-check": "yarn prettier --check 'index.tsx'",
+    "semantic-release": "semantic-release",
+    "test": "echo 'boop!'"
   },
   "devDependencies": {
     "@hasparus/microbundle": "0.12.0-next.9x",
