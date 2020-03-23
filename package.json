@@ -15,6 +15,12 @@
   "files": [
     "dist"
   ],
+  "keywords": [
+    "next",
+    "react",
+    "link",
+    "typescript"
+  ],
   "scripts": {
     "build": "microbundle -f modern,cjs",
     "c": "gitmoji -c",
