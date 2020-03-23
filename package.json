@@ -17,8 +17,8 @@
   ],
   "scripts": {
     "prebuild": "rm -rf dist & true",
-    "build": "microbundle --target node --external child_process -f modern,cjs --sourcemap false",
-    "prettier-check": "yarn prettier --check 'test/**/*.js' 'index.ts'",
+    "build": "microbundle -f modern,cjs",
+    "prettier-check": "yarn prettier --check 'index.tsx'",
     "commit": "gitmoji -c",
     "c": "gitmoji -c",
     "semantic-release": "semantic-release"
