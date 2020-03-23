@@ -1,7 +1,7 @@
 {
   "name": "next-next-link",
   "version": "0.0.0",
-  "description": "Lorem ipsum dolor sit amet",
+  "description": "A simpler Link for NextJS",
   "repository": {
     "type": "git",
     "url": "https://github.com/hasparus/next-next-link.git"
