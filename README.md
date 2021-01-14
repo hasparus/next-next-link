@@ -8,3 +8,7 @@
 **A simpler Link for NextJS.**
 
 ---
+
+#### Why?
+
+See https://github.com/vercel/next.js/issues/5533.
