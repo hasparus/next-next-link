@@ -1,3 +1,7 @@
+📂 This is no longer needed. The Link component in Next.js 13 is great. Just use it.
+
+---
+
 # next-next-link
 
 [![Build, Test and Release](https://github.com/hasparus/next-next-link/workflows/Build,%20Test%20and%20Release/badge.svg)](https://github.com/hasparus/next-next-link/actions?query=workflow%3A%22Build%2C+Test+and+Release%22)
