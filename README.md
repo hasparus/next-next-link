@@ -1,4 +1,4 @@
-📂 This is no longer needed. The Link component in Next.js 13 is great. Just use it.
+📂 ARCHIVED: This is no longer needed. The Link component in Next.js 13 is great. Just use it.
 
 ---
 
